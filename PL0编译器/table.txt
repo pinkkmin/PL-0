@@ -1,0 +1,10 @@
+***SIGN-TABLE***
+num	  name 	type	level	value	address
+<1>      xi   PROC      0      0      0
+<2>       a  CONST      0      5      3
+<3>       j    VAR      0      0      4
+<4>     sum    VAR      0      0      5
+<5>       x    VAR      0      0      6
+<6>    sum1   PROC      0      0      2
+<7>       x    VAR      1      0      4
+<8>       j    VAR      1      0      5
