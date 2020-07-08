@@ -1,0 +1,23 @@
+program  sds123;
+const a :=12,s:= 2;
+var x ,y,g,m;
+procedure swap(x,y);
+    var temp;  
+    begin
+	write(y);
+    y := x;
+    write(y);
+    if a < x then
+      write(13) 
+	else
+	  write(11) 
+    end
+    begin
+	read(x,y);
+	write(x,y);
+    while x>=s do
+	begin
+    call swap(x,y);
+	read(x);
+	end
+    end

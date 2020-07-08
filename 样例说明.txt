@@ -1,0 +1,16 @@
+测试样例			
+1.data.txt
+求累加和 1~j+5   
+
+2.testppt.txt
+输出:两倍的 b+2   ；b=0结束
+
+3.test.txt
+输入：x,y
+x>=s:=2
+do  swap(x,y);
+read(x);
+x输入小于2结束
+swap(x,y);
+显示y原值  显示y（y=x）
+比较a:= 12 和x 大小   大于显示13 小于显示11
